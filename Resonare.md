@@ -170,48 +170,46 @@ Digite um número:
 
 ### **1. Modo Emulação (Opção 1)**
 
-#### Interface de Entrada Inicial:
-```
 ♦ EMULADOR SONORO RESONARE ♦
+
+NOTA: Este sistema aplica ajustes no seu fone BASE para fazê-lo soar como o fone ALVO.
+Os ajustes de EQ serão calculados para transformar o som do seu fone atual no som do fone que você deseja emular.
 
 » Tipo de emulação: [N=Normal / H=Híbrida]
 
-Processando...
-```
-
 #### Interface de Entrada (Após escolha Normal):
-```
 ♦ EMULADOR SONORO RESONARE ♦
 » Tipo de emulação: Normal
 
-» Seu fone atual: [digite modelo]
-» Fone a ser emulado: [digite modelo]
+» Seu fone BASE (o que você possui): [digite modelo]
+» Fone ALVO (som a ser aplicado no seu fone): [digite modelo]
 » Equalizador: [G=Gráfico / P=Paramétrico]
 » Detalhamento do Equalizador:  
-   - Se gráfico, informe o número de bandas (ex.: 9 bandas).  
-   - Se paramétrico, informe o número de filtros.
+  - Se gráfico, informe o número de bandas (ex.: 9 bandas).  
+  - Se paramétrico, informe o número de filtros.
 
 Processando...
-```
+
+#### Interface de Saída (Equalizador Gráfico/Paramétrico):
+✓ EMULAÇÃO CONCLUÍDA | [Fone BASE] → [Fone ALVO]
 
 #### Interface de Entrada (Após escolha Híbrida):
-```
 ♦ EMULADOR SONORO RESONARE ♦
 » Tipo de emulação: Híbrida
 
-» Seu fone atual: [digite modelo]
-» Fones para hibridização:
-  • Primeiro fone: [digite modelo]
-  • Segundo fone: [digite modelo]
-  • Terceiro fone (opcional): [digite modelo]
+» Seu fone BASE (o que você possui): [digite modelo]
+» Fones ALVO para hibridização (sons a serem aplicados no seu fone):
+ • Primeiro fone: [digite modelo]
+ • Segundo fone: [digite modelo]
+ • Terceiro fone (opcional): [digite modelo]
 » Proporção de características (total 100%):
-  • Primeiro fone: [%]
-  • Segundo fone: [%]
-  • Terceiro fone: [%]
+ • Primeiro fone: [%]
+ • Segundo fone: [%]
+ • Terceiro fone: [%]
 » Equalizador: [G=Gráfico / P=Paramétrico]
 » Detalhamento do Equalizador:  
-   - Se gráfico, informe o número de bandas (ex.: 9 bandas).  
-   - Se paramétrico, informe o número de filtros.
+  - Se gráfico, informe o número de bandas (ex.: 9 bandas).  
+  - Se paramétrico, informe o número de filtros.
 
 Processando...
 ```
