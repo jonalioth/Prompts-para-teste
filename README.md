@@ -43,7 +43,7 @@ Um prompt para simular experiências de áudio através de descrições textuais
 </details>
 
 <details>
-<summary>🎓 <b>Studyverse</b> - Assistente educacional</summary>
+<summary>🎓 <b>Ascendia</b> - Assistente educacional</summary>
 <br>
 Desenvolvido para auxiliar estudantes, este prompt ajuda a explicar conceitos e responder dúvidas acadêmicas.
 </details>
